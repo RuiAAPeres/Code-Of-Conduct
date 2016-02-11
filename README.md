@@ -46,7 +46,7 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
-* Rui Peres - @ruiaaperes
+* Rui Peres - @r.peres
 * Tiago Almeida - @tiagoalmeida
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
